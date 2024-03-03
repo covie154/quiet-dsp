@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\libliquid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\agc\src\agc_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\agc\src\agc_rrrf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\audio\src\cvsd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\buffer\src\bufferf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\buffer\src\buffercf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\channel\src\channel_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\dotprod\src\dotprod_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\dotprod\src\dotprod_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\dotprod\src\dotprod_rrrf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\dotprod\src\sumsq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\equalization\src\equalizer_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\equalization\src\equalizer_rrrf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\crc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_conv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_conv_poly.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_conv_pmatrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_conv_punctured.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_golay2412.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming74.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming84.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming128.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming1511.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming3126.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_hamming128_gentab.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_pass.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_rep3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_rep5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_rs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_secded2216.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_secded3932.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\fec_secded7264.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\interleaver.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\packetizer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fec\src\sumproduct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fft\src\fftf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fft\src\spgramcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fft\src\spgramf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\fft\src\fft_utilities.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\bessel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\butter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\cheby1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\cheby2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\ellip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\filter_rrrf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\filter_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\filter_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\firdes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\firdespm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\fnyquist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\gmsk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\group_delay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\hM3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\iirdes.pll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\iirdes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\lpc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\rcos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\rkaiser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\filter\src\rrcos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bpacketgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bpacketsync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bpresync_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bsync_rrrf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bsync_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\bsync_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\detector_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\dsssframegen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\dsssframesync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\framedatastats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\framesyncstats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\framegen64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\framesync64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\flexframegen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\flexframesync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\gmskframegen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\gmskframesync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\msourcecf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\ofdmflexframegen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\ofdmflexframesync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\presync_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\symstreamcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\symtrack_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\qdetector_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\qpacketmodem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\qpilotgen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\framing\src\qpilotsync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\poly.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\polyc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\polyf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\polycf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\math.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\math.bessel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\math.gamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\math.complex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\math.trig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\modular_arithmetic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\math\src\windows.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\matrixf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\matrixc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\matrixcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\smatrix.common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\smatrixb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\smatrixf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\matrix\src\smatrixi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\ampmodem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\cpfskdem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\cpfskmod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\fskdem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\fskmod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\gmskdem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\gmskmod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\modemf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\modem_utilities.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\modem_apsk_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\modem\src\modem_arb_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\multichannel\src\firpfbch_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\multichannel\src\firpfbch_cccf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\multichannel\src\ofdmframe.common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\multichannel\src\ofdmframegen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\multichannel\src\ofdmframesync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\nco\src\nco_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\nco\src\nco.utilities.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\nco\src\synth_crcf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\chromosome.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\gasearch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\gradsearch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\optim.common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\qnsearch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\optim\src\utilities.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\quantization\src\compand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\quantization\src\quantizercf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\quantization\src\quantizerf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\quantization\src\quantizer.inline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\rand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randexp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randweib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randgamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randnakm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\randricek.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\random\src\scramble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\sequence\src\bsequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\sequence\src\msequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\bshift_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\byte_utilities.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\msb_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\pack_bytes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\shift_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\utility\src\utility.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorf_add.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorf_norm.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorf_mul.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorf_trig.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorcf_add.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorcf_norm.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorcf_mul.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Git\quiet-dsp-devel\src\vector\src\vectorcf_trig.port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Git\quiet-dsp-devel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8E546E77-D5EB-36E4-905A-AB11893EC0F1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

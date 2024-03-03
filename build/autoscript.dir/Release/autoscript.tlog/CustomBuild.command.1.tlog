@@ -1,0 +1,10 @@
+^E:\GIT\QUIET-DSP-DEVEL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Git/quiet-dsp-devel -BE:/Git/quiet-dsp-devel/build --check-stamp-file E:/Git/quiet-dsp-devel/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

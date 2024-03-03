@@ -1,0 +1,10 @@
+E:/Git/quiet-dsp-devel/build/CMakeFiles/getopt.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/liquid-shared.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/liquid-static.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/autoscript.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/autotest_include.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/autotest.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/autotest_run.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/INSTALL.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/ALL_BUILD.dir
+E:/Git/quiet-dsp-devel/build/CMakeFiles/ZERO_CHECK.dir
